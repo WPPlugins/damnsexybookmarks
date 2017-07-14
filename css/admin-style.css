@@ -1,0 +1,145 @@
+div.wrapit {
+	max-width: 680px;
+	font-weight: normal;
+	font-family:arial, sans-serif;
+	font-size:14px;
+	margin:0 0 0 25px;
+}
+
+h2.sexy {
+	padding-left: 18px;
+	background: url('../images/sexy-icon.png') no-repeat left 3px;
+	font-family:georgia, serif;
+	font-weight:normal;
+	font-size:22px;
+	font-style:italic;
+}
+label.title, span.title {
+	font-weight: bold;
+	font-size:16px;
+	font-family:tahoma, arial, sans-serif;
+}
+span.title {
+	position: absolute;
+}
+div.in1 {
+	margin: 40px 0;
+}
+div.in2 {
+	margin:0;
+	padding:22px 0;
+}
+.iconator {
+	width: 640px;
+}
+.iconator h2 {
+	font-weight: bold;
+	font-size:16px;
+}
+.iconator label {
+	background-image: url('../images/sexy-sprite.png');
+	background-repeat: no-repeat;
+	width: 60px;
+	height: 45px;
+	float: left;
+	margin: 12px 2px;
+	cursor: move;
+}
+.iconator input {
+	width: 60px;
+	margin: 0 auto;
+	bottom: -31px;
+	position: relative;
+}
+label.damn-sexy-newsvine {
+	background-position:left top;
+}
+label.damn-sexy-linkedin {
+	background-position:-70px top;
+}
+label.damn-sexy-devmarks {
+	background-position:-140px top;
+}
+label.damn-sexy-google {
+	background-position:-210px top;
+}
+label.damn-sexy-scriptstyle {
+	background-position:-280px top;
+}
+label.damn-sexy-mail {
+	background-position:-350px top;
+}
+label.damn-sexy-comfeed {
+	background-position:-420px top;
+}
+label.damn-sexy-twitter {
+	background-position:-490px top;
+}
+label.damn-sexy-technorati {
+	background-position:-560px top;
+}
+label.damn-sexy-stumbleupon {
+	background-position:-630px top;
+}
+label.damn-sexy-reddit {
+	background-position:-700px top;
+}
+label.damn-sexy-myspace {
+	background-position:-770px top;
+}
+label.damn-sexy-mixx {
+	background-position:-840px top;
+}
+label.damn-sexy-furl {
+	background-position:-910px top;
+}
+label.damn-sexy-digg {
+	background-position:-980px top;
+}
+label.damn-sexy-designfloat {
+	background-position:-1050px top;
+}
+label.damn-sexy-yahoomyweb {
+	background-position:-1120px top;
+}
+label.damn-sexy-delicious {
+	background-position:-1190px top;
+}
+label.damn-sexy-blinklist {
+	background-position:-1260px top;
+}
+label.damn-sexy-facebook {
+	background-position:-1330px top;
+}
+.share-sexy {
+	width:140px;
+	height:50px;
+	display:block;
+	background:url('../images/sexy-trans.png') no-repeat left bottom;
+}
+.share-care {
+	width:140px;
+	height:50px;
+	display:block;
+	background:url('../images/sexy-trans.png') no-repeat left top;
+}
+input#bgimg-sexy {
+	left:10px;
+	position:relative;
+	top:58px;
+}
+input#bgimg-caring {
+	left:10px;
+	position:relative;
+	top:58px;	
+}
+input#bgimg-none {
+	left:10px;
+	position:relative;
+	top:58px;	
+}
+.clear {
+	clear:both;
+	height:20px;
+	width:100%;
+}
